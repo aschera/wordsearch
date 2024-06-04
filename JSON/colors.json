@@ -1,0 +1,49 @@
+{
+  "PreK": {
+    "Colors": [
+      "RED",
+      "BLUE",
+      "GREEN",
+      "YELLOW",
+      "ORANGE",
+      "BLACK",
+      "WHITE",
+      "PINK",
+      "PURPLE"
+    ]
+  },
+  "Kindergarten": {
+    "Colors": [
+      "BROWN",
+      "GRAY",
+      "TURQUOISE",
+      "VIOLET",
+      "MAGENTA",
+      "MAROON",
+      "NAVY",
+      "TEAL",
+      "GOLD",
+      "SILVER",
+      "LIME",
+      "AQUA",
+      "Fuchsia"
+    ]
+  },
+  "1st Grade": {
+    "Colors": [
+      "CRIMSON",
+      "INDIGO",
+      "AQUAMARINE",
+      "CHOCOLATE",
+      "LAVENDER",
+      "MAUVE",
+      "CERULEAN",
+      "CHARTREUSE",
+      "SALMON",
+      "CORAL",
+      "KHAKI",
+      "SIENNA",
+      "OLIVE"
+    ]
+  }
+}
