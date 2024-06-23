@@ -1,0 +1,46 @@
+{
+    "PreK": {
+      "Breakfast": [
+        "HAM",
+        "JAM",
+        "MILK",
+        "BACON",
+        "EGGS",
+        "JUICE",
+        "TOAST",
+        "BAGEL",
+        "BEANS",
+        "HONEY",
+        "DONUT",
+        "BREAD"
+      ]
+    },
+    "Kindergarten": {
+      "Breakfast": [
+        "BUTTER",
+        "CHEESE",
+        "WAFFLE",
+        "YOGURT",
+        "MUFFIN",
+        "SAUSAGE",
+        "MUESLI",
+        "OATMEAL",
+        "JUICE",
+        "BEANS"
+      ]
+    },
+    "1st Grade": {
+      "Breakfast": [
+        "PEANUTBUTTER",
+        "CROISSANT",
+        "OMELETTE",
+        "PORRIDGE",
+        "SMOOTHIE",
+        "PUDDING",
+        "GRANOLA",
+        "PANCAKE",
+        "SANDWICH"
+      ]
+    }
+  }
+  
